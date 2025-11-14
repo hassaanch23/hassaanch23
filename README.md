@@ -1,72 +1,76 @@
-```markdown
 # Hi, I'm Muhammad Hassaan 👋 (hassaanch23)
 
-Software engineering student at FAST-NUCES — passionate about backend & frontend development, AI/ML, and integrating intelligent systems into mobile and web apps. I build production-minded solutions (APIs, chatbots, OCR pipelines) and enjoy turning research and coursework into real products.
+🎓 **Software Engineering Student at FAST-NUCES**  
+💡 Passionate about backend & frontend development, AI/ML, and integrating intelligent systems into web & mobile apps.  
+🚀 I build production-ready solutions like APIs, chatbots, OCR pipelines, and turn research into real products.
 
 [![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanch23&show_icons=true&theme=tokyonight)](https://github.com/hassaanch23)
 
 ---
 
-## Quick facts
-- Open to: AI/ML & mobile integration projects, backend/full-stack roles
-- Languages & Tech: Python, JavaScript/Node.js, Java, C#, SQL, MongoDB, Docker
+## ⚡ Quick Facts
+- **Open to:** AI/ML & mobile integration projects, backend/full-stack roles  
+- **Languages & Tech:** Python, JavaScript/Node.js, Java, C#, SQL, MongoDB, Docker  
+- **Tools & Platforms:** Azure AI, LangChain, LangGraph, FastAPI, React, React Native
 
 ---
 
-## Short bio
-I'm a software engineering student at FAST-NUCES with hands-on experience in backend and full-stack development. Recently focused on AI/ML integrations, OCR pipelines, and conversational systems for mobile and web.
+## 🧰 Skills
 
----
-
-## Highlights / Summary
-- AI & NLP: Built AI-powered document intelligence and chat systems using Azure Document Intelligence, LLM-based validation, and realtime chat integrations (Twilio, Meta APIs).
-- Backend: REST APIs, batch processing pipelines, Dockerized services, Spring Boot and FastAPI experience.
-- Frontend & Mobile: React, React Native, responsive UIs and state management.
-- Databases & Tools: MongoDB, MySQL, Git, Docker, JUnit, Mockito, VS Code.
-- Languages: Python, JavaScript, Java, C++, C#, Node.js, SQL
-
----
-
-## Skills
-
-Back-end
-- Python, Node.js, Express.js, Spring Boot, Java, C#, Docker
+### Backend
+- Python, Node.js, Express.js, Spring Boot, Java, C#, Docker  
 - Databases: MongoDB, MySQL
 
-Front-end & Mobile
+### Frontend & Mobile
 - React, React Native, JavaScript, HTML/CSS, Dart
 
-AI / Tools
-- Azure Document Intelligence (OCR & extraction), LangChain, LangGraph, FastAPI, embeddings & LLM integrations
+### AI / Tools
+- Azure Document Intelligence (OCR & extraction), LangChain, LangGraph, FastAPI, LLM integrations
 
-Other
-- Git, CI/CD basics, VS Code, testing (JUnit, Mockito), problem solving
-
----
-
-## Professional Experience
-
-AI Developer — Techfy
-- Developed AI-powered financial document processing using Azure Document Intelligence: OCR, document-type detection, structured field extraction, anomaly detection, and batch analysis.
-- Built document classification pipelines combining Azure entities with LLM validation and exported structured JSON outputs for frontend integration.
-- Implemented realtime chat, export-to-PDF/CSV features.
-
-AI / Backend Intern — Techfy
-- Built a JD chatbot to streamline client interactions and options selection for software builds.
-
-Full Stack Developer Intern — DevisersTech
-- Worked on a fintech project (Spring Boot + React) for Ziraat Bank (Saudi Arabia).
-- Implemented REST APIs, user & statement modules, and unit tests (JUnit, Mockito). Collaborated in an agile/Git workflow.
+### Other
+- Git, CI/CD basics, VS Code, Testing (JUnit, Mockito), Problem Solving
 
 ---
 
-## How to reach me
-- GitHub: [@hassaanch23](https://github.com/hassaanch23)
-- Portfolio: https://portfolio-seven-azure-38.vercel.app/
-- Email: imhassaan04@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-hassaan-4063b2247/
+## 📚 Highlights
+- **AI & NLP:** Built AI-powered document intelligence & chat systems (Azure Document Intelligence, LLM validation, Twilio/Meta API integration)  
+- **Backend:** REST APIs, batch processing pipelines, Dockerized microservices, Spring Boot & FastAPI  
+- **Frontend & Mobile:** Responsive web/mobile apps with state management and smooth UX  
+- **Databases & Tools:** MongoDB, MySQL, Git, Docker, Unit Testing, VS Code
 
 ---
 
-Thank you for stopping by — I’m always excited to collaborate on AI, mobile integrations, and backend systems. 🚀
-```
+## 💼 Professional Experience
+
+**AI Developer — Techfy**  
+- Built AI-powered financial document processing pipelines using Azure Document Intelligence  
+- Implemented OCR, document classification, anomaly detection, structured JSON output for frontend integration  
+- Realtime chat features and export-to-PDF/CSV functionality  
+
+**AI / Backend Intern — Techfy**  
+- Developed a JD chatbot to streamline client interactions and project option selections  
+
+**Full Stack Developer Intern — DevisersTech**  
+- Worked on fintech project for Ziraat Bank (Saudi Arabia) using Spring Boot + React  
+- Implemented REST APIs, user & statement modules, unit testing with JUnit & Mockito  
+- Collaborated in agile workflows with Git  
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me
+- **Portfolio:** [portfolio-seven-azure-38.vercel.app](https://portfolio-seven-azure-38.vercel.app/)  
+- **GitHub:** [@hassaanch23](https://github.com/hassaanch23)  
+- **LinkedIn:** [Muhammad Hassaan](https://www.linkedin.com/in/muhammad-hassaan-4063b2247/)  
+- **Email:** imhassaan04@gmail.com  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+✨ Thanks for stopping by! Always excited to collaborate on AI, backend, and mobile projects. Let’s build something amazing together! 🚀
