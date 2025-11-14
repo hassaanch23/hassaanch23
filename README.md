@@ -4,8 +4,8 @@
 💡 Passionate about backend & frontend development, AI/ML, and integrating intelligent systems into web & mobile apps.  
 🚀 I build production-ready solutions like APIs, chatbots, OCR pipelines, and turn research into real products.
 
-[![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanch23&show_icons=true&theme=tokyonight)](https://github.com/hassaanch23)
-
+[[![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanch23&show_icons=true&theme=tokyonight)](https://github.com/hassaanch23)
+](url)
 ---
 
 ## ⚡ Quick Facts
@@ -57,9 +57,9 @@
 
 ---
 
-## 📈 GitHub Stats
+[## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&theme=tokyonight)  ](url)
 
 ---
 
