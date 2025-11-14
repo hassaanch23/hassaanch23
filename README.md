@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hassaan 👋 (hassaanch23)
 
-🎓 **Software Engineering Student at FAST-NUCES**  
+🎓 **Software Engineering Student at FAST-NUCES && AI Developer at Techfy**  
 💡 Passionate about backend & frontend development, AI/ML, and integrating intelligent systems into web & mobile apps.  
 🚀 I build production-ready solutions like APIs, chatbots, OCR pipelines, and turn research into real products.
 
