@@ -1,6 +1,5 @@
 # Hi, I'm Muhammad Hassaan 👋 (hassaanch23)
 
-🎓 **Software Engineering Student at FAST-NUCES**  
 🤖 **AI Developer at Techfy**  
 💻 Building intelligent systems across web, mobile, and backend platforms  
 
