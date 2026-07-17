@@ -6,6 +6,8 @@ Building intelligent systems across **web, mobile, and backend**.
 
 I specialize in **AI-powered applications**, **agentic systems**, **RL evaluation for frontier models**, and end-to-end **backend development**. I turn ideas into production systems—APIs, AI agents, OCR/document intelligence pipelines, chatbots, and full-stack apps.
 
+![Profile views](https://komarev.com/ghpvc/?username=hassaanch23&color=blueviolet&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad-hassaan-4063b2247) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat&logo=vercel)](https://imhassaan04.vercel.app)
+
 ---
 
 ## 🚀 Currently
@@ -65,16 +67,26 @@ Lahore, Pakistan
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Analytics
 
-| Project | Description |
-| --- | --- |
-| 🤝 **Agentic Sales CRM** | Autonomously generates prospects, enriches them, and builds personas for sales calls |
-| 🎙️ **Voice + Gesture Desktop Agent** | Control a computer via voice and hand gestures (OpenCV, Faster-Whisper, Ollama, custom tool-calling agent) |
-| 📄 **Financial Document Intelligence** | AI-powered OCR & analysis (Azure Document Intelligence, FastAPI, LLMs) |
-| 🔊 **Voice AI Agent** | Real-time STT → LLM → TTS over WebSockets |
-| 💬 **AI JD Chatbot** | LangChain/LangGraph agentic backend with retrieval |
-| 🏥 **MedQuick** | AI medical assistance platform (FastAPI, ML pipelines, BioBERT, Groq LLM) |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaanch23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Muhammad Hassaan's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hassaanch23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanch23&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hassaanch23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+
+</div>
 
 ---
 
