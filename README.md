@@ -71,20 +71,11 @@ Lahore, Pakistan
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaanch23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Muhammad Hassaan's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=hassaanch23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanch23&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hassaanch23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 
 </div>
 
