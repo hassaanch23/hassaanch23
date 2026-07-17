@@ -42,19 +42,19 @@ I specialize in **AI-powered applications**, **agentic systems**, **RL evaluatio
 
 ## 💼 Experience
 
-### 🧪 RL Researcher — Tensium (UK) · `06/2026 – Present`
+### 🧪 RL Researcher — Tensium (UK)
 - Build **RL evaluation environments** for frontier models
 - Design tasks, verifiers, and sandboxed eval pipelines
 - Tested against **Claude** and **GPT** on the HUD platform
 
-### ⚙️ Software Engineer — AfterQuery · `05/2026 – Present`
+### ⚙️ Software Engineer — AfterQuery
 - Enhancing and evaluating AI models to improve performance
 
-### 🧠 AI Developer — Techfy (NY) · `07/2024 – 06/2026`
+### 🧠 AI Developer — Techfy (NY)
 - Built a **financial document intelligence platform** with Azure Document Intelligence, FastAPI, OCR, and structured extraction
 - Integrated **LLM chatbots**, **AWS Cognito** authentication, and **Stripe** payments
 
-### 🌍 Software Engineer — Mercor · `11/2023 – 02/2026`
+### 🌍 Software Engineer — Mercor
 - Collaborated with global AI teams including **Anthropic** on AI model training and evaluation
 - Designed scalable backend services, database schemas, and FastAPI-based APIs for production AI infrastructure
 
@@ -62,7 +62,7 @@ I specialize in **AI-powered applications**, **agentic systems**, **RL evaluatio
 
 ## 🎓 Education
 
-**BS Software Engineering** — FAST National University of Computer and Emerging Sciences · `2022 – 2026`
+**BS Software Engineering** — FAST National University of Computer and Emerging Sciences
 Lahore, Pakistan
 
 ---
