@@ -1,85 +1,93 @@
 # Hi, I'm Muhammad Hassaan 👋 (hassaanch23)
 
-🤖 **AI Developer at Techfy**  
-💻 Building intelligent systems across web, mobile, and backend platforms  
+### 🤖 Full Stack & AI Engineer
 
-I specialize in **AI-powered applications**, end-to-end **backend development**, and integrating **machine learning** into production-ready systems. I enjoy turning ideas into working solutions—APIs, chatbots, OCR pipelines, automation tools, and full-stack apps.
+Building intelligent systems across **web, mobile, and backend**.
 
----
-
-## 🚀 About Me
-I'm passionate about:
-
-- **AI/ML development** (LLMs, document AI, chatbot systems)
-- **Backend engineering** with Python (FastAPI), Node.js, and Spring Boot
-- **Mobile development** with React Native + AI integrations
-- **Solving real-world problems** through automation and intelligent software
-
-I'm currently focused on:
-- AI agents, LangChain/LangGraph  
-- Scalable backend systems  
-- Mobile apps with embedded AI features  
+I specialize in **AI-powered applications**, **agentic systems**, **RL evaluation for frontier models**, and end-to-end **backend development**. I turn ideas into production systems—APIs, AI agents, OCR/document intelligence pipelines, chatbots, and full-stack apps.
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🚀 Currently
 
-### **Backend Development**
-- Python · FastAPI  
-- Node.js · Express.js  
-- Java · Spring Boot  
-- C#, REST API Design, Docker  
-- Databases: MongoDB, MySQL
+- 🧪 **RL Researcher @ Tensium (UK)** — building reinforcement learning evaluation environments for frontier AI models; designing tasks, verifiers, and sandboxed eval pipelines
+- ⚙️ **Software Engineer @ AfterQuery** — optimizing and evaluating AI models
 
-### **Frontend & Mobile**
-- React, React Native  
-- JavaScript, HTML/CSS  
-- Dart (basic)
+### 🎯 Focus Areas
 
-### **AI / ML & Tools**
-- Azure Document Intelligence (OCR, classification)  
-- LangChain, LangGraph  
-- LLM integrations (ChatGPT, Groq, Azure AI)  
-- NLP pipelines, document parsing, agents
-
-### **Other Skills**
-- Git & GitHub  
-- CI/CD basics  
-- JUnit & Mockito testing  
-- Agile workflows  
-- Problem solving & system design basics
+- RL evaluation environments for frontier models
+- Agentic systems (LangChain / LangGraph, tool-calling agents)
+- Scalable backend systems and production LLM pipelines
+- Document intelligence, RAG, and OCR
 
 ---
 
-## 💼 Professional Experience
+## 🧰 Tech Stack
 
-### **AI Developer — Techfy**
-- Built AI-driven **document processing pipelines** using Azure Document Intelligence  
-- Implemented OCR, classification, anomaly detection  
-- Designed JSON extraction structure for frontend integration  
-- Developed **real-time chat** and **document export (PDF/CSV)** functions
+**Backend & AI**  
+`Python` · `FastAPI` · `Node.js` · `Express.js` · `LangChain` · `LangGraph` · `Azure Document Intelligence` · `LLM integrations (Claude, GPT, Groq)` · `RAG` · `OCR pipelines` · `WebSockets`
 
-### **AI / Backend Intern — Techfy**
-- Developed a **JD chatbot** to automate client requirement gathering  
-- Used LangChain, LangGraph, FastAPI
+**Frontend & Mobile**  
+`React` · `Next.js` · `TypeScript` · `React Native` · `JavaScript` · `HTML/CSS`
 
-### **Full Stack Developer Intern — DevisersTech**
-- Contributed to a **fintech system** for Ziraat Bank (Saudi Arabia)  
-- Built backend modules (statements, user management) in Spring Boot  
-- Wrote unit tests using JUnit + Mockito  
-- Worked with React frontend and REST APIs
+**Databases & Cloud**  
+`PostgreSQL` · `MongoDB` · `MySQL` · `Prisma` · `AWS (Cognito, EC2, S3)` · `Docker`
+
+**Integrations & Tools**  
+`Stripe` · `Twilio` · `Meta API` · `Git / GitHub Actions` · `CI/CD`
+
+---
+
+## 💼 Experience
+
+### 🧪 RL Researcher — Tensium (UK) · `06/2026 – Present`
+- Build **RL evaluation environments** for frontier models
+- Design tasks, verifiers, and sandboxed eval pipelines
+- Tested against **Claude** and **GPT** on the HUD platform
+
+### ⚙️ Software Engineer — AfterQuery · `05/2026 – Present`
+- Enhancing and evaluating AI models to improve performance
+
+### 🧠 AI Developer — Techfy (NY) · `07/2024 – 06/2026`
+- Built a **financial document intelligence platform** with Azure Document Intelligence, FastAPI, OCR, and structured extraction
+- Integrated **LLM chatbots**, **AWS Cognito** authentication, and **Stripe** payments
+
+### 🌍 Software Engineer — Mercor · `11/2023 – 02/2026`
+- Collaborated with global AI teams including **Anthropic** on AI model training and evaluation
+- Designed scalable backend services, database schemas, and FastAPI-based APIs for production AI infrastructure
+
+---
+
+## 🎓 Education
+
+**BS Software Engineering** — FAST National University of Computer and Emerging Sciences · `2022 – 2026`
+Lahore, Pakistan
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| 🤝 **Agentic Sales CRM** | Autonomously generates prospects, enriches them, and builds personas for sales calls |
+| 🎙️ **Voice + Gesture Desktop Agent** | Control a computer via voice and hand gestures (OpenCV, Faster-Whisper, Ollama, custom tool-calling agent) |
+| 📄 **Financial Document Intelligence** | AI-powered OCR & analysis (Azure Document Intelligence, FastAPI, LLMs) |
+| 🔊 **Voice AI Agent** | Real-time STT → LLM → TTS over WebSockets |
+| 💬 **AI JD Chatbot** | LangChain/LangGraph agentic backend with retrieval |
+| 🏥 **MedQuick** | AI medical assistance platform (FastAPI, ML pipelines, BioBERT, Groq LLM) |
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 **Portfolio:** https://portfolio-seven-azure-38.vercel.app  
-- 💼 **LinkedIn:** https://linkedin.com/in/muhammad-hassaan-4063b2247  
-- 🐙 **GitHub:** https://github.com/hassaanch23  
-- 📧 **Email:** imhassaan04@gmail.com  
+
+- 🌐 **Portfolio:** https://imhassaan04.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/muhammad-hassaan-4063b2247
+- 🐙 **GitHub:** https://github.com/hassaanch23
+- 📧 **Email:** imhassaan04@gmail.com
 
 ---
 
-> **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
+> **"Code is like humor. When you have to explain it, it's bad." — Cory House**
 
 Thanks for visiting!  
-Always open to collaborations in **AI, backend, and mobile development**. 🚀
+Always open to collaborations in **AI, backend, and full-stack development**. 🚀
