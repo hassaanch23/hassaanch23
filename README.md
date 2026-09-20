@@ -11,6 +11,7 @@ I build reinforcement learning evaluation environments for frontier models, and 
 ## Currently
 
 - **AI Research Engineer (RL) @ Tensium (UK)** — building reinforcement learning evaluation environments for frontier AI models; designing tasks, verifiers, and sandboxed eval pipelines
+- **AI & Full Stack Engineer (Contract) @ Atlast** — Barcelona (Remote)
 
 ### Focus Areas
 
