@@ -97,8 +97,7 @@ Aug 2026 – Present
 
 ## Education
 
-**BS Software Engineering** — FAST National University of Computer and Emerging Sciences
-Lahore, Pakistan
+**BS Software Engineering** — FAST National University of Computer and Emerging Sciences, Lahore, Pakistan
 
 ---
 
