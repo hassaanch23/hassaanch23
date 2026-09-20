@@ -108,8 +108,6 @@ Aug 2026 – Present
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=hassaanch23&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassaanch23&layout=compact&hide=jupyter%20notebook,html&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=hassaanch23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 <img src="https://trophy.ryglcloud.net/?username=hassaanch23&theme=tokyonight&no-frame=true&row=1&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=8" alt="GitHub trophies" />
 
 <!-- Activity graph: the upstream host (github-readme-activity-graph.vercel.app) has returned
